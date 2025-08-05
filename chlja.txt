@@ -1,1 +1,1 @@
-Hiii just trying to check a mooh
+print("Hello life")
